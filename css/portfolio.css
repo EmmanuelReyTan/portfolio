@@ -33,6 +33,14 @@ header.masthead {
     display: none !important;
 }
 
+#myVideo2,
+#myVideo3,
+#myVideo4,
+#myVideo5 {
+    display: none !important
+}
+
+
 @media only screen and (max-width: 1024px) {
     .1080p-wrap {
         display: none !important
