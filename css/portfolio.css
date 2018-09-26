@@ -18,7 +18,11 @@ header.masthead {
 #mainNav.navbar-shrink .navbar-nav>li.nav-item>a.nav-link, #mainNav.navbar-shrink .navbar-nav>li.nav-item>a.nav-link:focus {
     color:  white !important
 }
-#myVideo {
+#myVideo1,
+#myVideo2,
+#myVideo3,
+#myVideo4,
+#myVideo5 {
     position: fixed;
     right: 0;
     bottom: 0;
