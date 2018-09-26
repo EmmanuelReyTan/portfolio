@@ -46,52 +46,66 @@ header.masthead {
 
 
 @media only screen and (max-width: 1024px) {
-    .wrap-1080p {
+    .wrap-1080p,
+    #myVideo1 {
         display: none !important
     }
-    .wrap-1024p {
+    .wrap-1024p,
+    #myVideo2 {
         display: block !important;
     }
 }
 @media only screen and (max-width: 768px) {
-    .wrap-1080p {
+    .wrap-1080p,
+    #myVideo1 {
         display: none !important
     }
-    .wrap-1024p {
+    .wrap-1024p,
+    #myVideo2 {
         display: none !important;
     }
-    .wrap-768p {
+    .wrap-768p,
+    #myVideo3 {
         display: block !important;
     }
 }
 @media only screen and (max-width: 414px) {
-    .wrap-1080p {
+    .wrap-1080p,
+    #myVideo1 {
         display: none !important
     }
-    .wrap-1024p {
+    .wrap-1024p,
+    #myVideo2 {
         display: none !important;
     }
-    .wrap-768p {
+    .wrap-768p,
+    #myVideo3 {
         display: none !important;
     }
-    .wrap-414p {
+    .wrap-414p,
+    #myVideo4 {
         display: block !important;
     }
 }
 @media only screen and (max-width: 320px) {
-    .wrap-1080p {
+    .wrap-1080p,
+    #myVideo1 {
         display: none !important
     }
-    .wrap-1024p {
+    .wrap-1024p,
+    #myVideo2 {
         display: none !important;
     }
-    .wrap-768p {
+    .wrap-768p,
+    #myVideo3 {
         display: none !important;
     }
-    .wrap-414p {
+    .wrap-414p,
+    #myVideo4 {
         display: none !important;
     }
-    .wrap-320p {
+    .wrap-320p,
+    #myVideo5 {
         display: block !important;
     }
 }
